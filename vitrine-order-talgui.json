@@ -1,5 +1,3 @@
-$ cd "C:\Users\danil\Desktop\gsd-talgui-vitrine-app" && cat exports/vitrine-order-talgui.json
-
 {
   "generatedAt": "2026-07-13T14:58:37.276Z",
   "categoryId": 36839648,
